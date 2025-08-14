@@ -1,0 +1,6 @@
+symptom,snomed_id,specialist
+fever,386661006,General Physician
+headache,25064002,Neurologist
+cough,49727002,Pulmonologist
+chest pain,29857009,Cardiologist
+shortness of breath,267036007,Pulmonologist
